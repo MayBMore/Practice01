@@ -1,0 +1,8 @@
+|Practice01
+pin_name4 <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+Ignition => inst3.IN0
+Ignition => inst2.IN1
+SeatBelt => inst1.IN0
+DoorClose => inst.IN0
+
+

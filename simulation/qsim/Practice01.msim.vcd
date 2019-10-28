@@ -1,0 +1,90 @@
+$comment
+	File created using the following command:
+		vcd file Practice01.msim.vcd -direction
+$end
+$date
+	Mon Sep 16 19:24:11 2019
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module Practice01_vlg_vec_tst $end
+$var reg 1 ! DoorClose $end
+$var reg 1 " Ignition $end
+$var reg 1 # SeatBelt $end
+$var wire 1 $ pin_name4 $end
+
+$scope module i1 $end
+$var wire 1 % gnd $end
+$var wire 1 & vcc $end
+$var wire 1 ' unknown $end
+$var tri1 1 ( devclrn $end
+$var tri1 1 ) devpor $end
+$var tri1 1 * devoe $end
+$var wire 1 + pin_name4~output_o $end
+$var wire 1 , Ignition~input_o $end
+$var wire 1 - DoorClose~input_o $end
+$var wire 1 . SeatBelt~input_o $end
+$var wire 1 / inst4~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1!
+0"
+0#
+0$
+0%
+1&
+x'
+1(
+1)
+1*
+0+
+0,
+1-
+0.
+0/
+$end
+#80000
+0!
+0-
+#140000
+1!
+1-
+#160000
+1#
+1.
+#180000
+1"
+1,
+#480000
+0#
+0.
+1/
+1+
+1$
+#560000
+0!
+0-
+#640000
+1!
+1-
+#720000
+0!
+0-
+#820000
+1!
+1-
+#900000
+1#
+1.
+0/
+0+
+0$
+#1000000
